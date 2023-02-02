@@ -48,7 +48,7 @@ header > p {
 }
 
 main {
-    max-width: 1300px;
+    max-width: 1270px;
     margin: auto;
     padding: 10px;
 }
@@ -56,6 +56,21 @@ main {
 main a:hover {
     background-color: var(--cor4);
     transition-duration: 0.5s;
+}
+
+div.separacao {
+    max-width: 1125px;
+    margin: auto;
+}
+
+div.separacao2 {
+    max-width: 1015px;
+    margin: auto;
+}
+
+div.separacao3 {
+    max-width: 760px;
+    margin: auto;
 }
 
 footer {
@@ -75,19 +90,4 @@ footer > p {
 .imagem {
     margin: auto;
     display: block;
-}
-
-div.separacao {
-    max-width: 900px;
-    margin: auto;
-}
-
-div.separacao2 {
-    max-width: 1050px;
-    margin: auto;
-}
-
-div.separacao3 {
-    max-width: 1050px;
-    margin: auto;
 }
